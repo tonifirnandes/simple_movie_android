@@ -1,7 +1,7 @@
 package com.example.movieapp.ui.main
 
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.ViewModel
 
-class MainViewModel : ViewModel() {
+class DetailViewModel : ViewModel() {
     // TODO: Implement the ViewModel
 }

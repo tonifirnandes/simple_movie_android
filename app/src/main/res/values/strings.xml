@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Movie App</string>
+    <string name="favorite">Favorite</string>
+    <string name="category">Category</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="movie_cover_image">Movie Cover Image</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="overview">Overview</string>
+    <string name="movie_overview_body">Movie Overview</string>
+    <string name="movie_released_date">Movie Released-Date</string>
+    <string name="review_author">Review Author</string>
+    <string name="review_content">Review Content</string>
+    <string name="favorite_movie">Favorite Movie</string>
+
 </resources>
